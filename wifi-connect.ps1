@@ -1,6 +1,6 @@
 # Fill in mandatory details for the WiFi network
 $WirelessNetworkSSID = 'OnePlus 6T'
-$WirelessNetworkPassword = '7eb69fb7907e'
+$WirelessNetworkPassword = 'passphrase'
 $Authentication = 'WPA2PSK' # Could be WPA2
 $Encryption = 'AES'
 
