@@ -1,4 +1,4 @@
-# Fill in mandatory details for the WiFi network
+# Downloaded from https://marckean.com/2019/01/01/programmably-connect-to-a-wifi-network-using-a-password/
 $WirelessNetworkSSID = 'OnePlus 6T'
 $WirelessNetworkPassword = 'passphrase'
 $Authentication = 'WPA2PSK' # Could be WPA2
